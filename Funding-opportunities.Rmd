@@ -1,0 +1,5 @@
+# Funding Opportunities {-}
+
+Here you will find resources related to finding additional funding to support your research. Please note that this is *not* a comprehensive list, but one I am slowly compiling as I come across more sources of funding. If you have any suggestions for funding sources to add to this list, please [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue). You are responsible for keeping track of funding deadlines and requirements, and if you require a letter of reference from me, please provide me with at least two weeks notice.
+
+**In Progress: This page will be updated shortly**

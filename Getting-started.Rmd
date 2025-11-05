@@ -1,0 +1,25 @@
+# Getting Started {-}
+
+## R and RStudio {-}
+If you are brand new to using R/Rstudio, you will need to [download and install](https://posit.co/download/rstudio-desktop/) both. Once everything is installed and ready to use, I recommend starting with [R for Data Science](https://r4ds.had.co.nz/index.html). It's freely available and decently comprehensive - you can work your way through the chapters and will learn most of the basics you will need for coding in R. This is something you should work on in the first four months of your program if you have little to no prior experience.
+
+**I do not recommend using AI to provide coding/anaylsis help unless you are very confident in your coding abilities already.** AI should be viewed as a tool, and it can be useful in some contexts, but only if you can evaluate it critically. You are responsible for the code that you produce, which means you need to be able to understand and justify everything that you do. 
+
+
+## Reference Management {-}
+Unless otherwise discussed, all lab members will use Zotero for reference and citation management. You can download Zotero for free [here](www.zotero.org). If you are unfamiliar with Zotero, there are some useful [tutorials](https://libguides.unm.edu/Zotero) available online. I also recommend using the Chrome or Firefox plug-in to make it easier to save papers. Please let me know if you use up the free storage space and we can upgrade it. Using reference management serves several purposes:
+
+1. It will save you many, many hours reformatting manuscripts to fit different journal requirements
+2. It provides a paper organization/file storage system that most likely beats whatever system you can set up manually
+3. We can create shared folders when collaborating on different projects, so that all collaborators have access to the same papers
+
+If you are having trouble getting started with Zotero, you can reach out to the [UM Library](https://libguides.lib.umanitoba.ca/citationmanagers) or we can set up a meeting to go through it.
+
+## Data Management and Backup {-}
+
+*Coming soon*
+
+
+
+
+

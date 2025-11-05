@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "The Binley Lab Manual"
+author: "Allison Binley"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -8,51 +8,33 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  This is the manual for our Lab, which will contain any information you need to get started and keep track of materials you need to succeed at the University of Manitoba. 
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# About {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Welcome to the Binley Lab! The purpose of this Lab Manual is to provide a centralized location for all resources that you may find useful/necessary when navigating your studies at the University of Manitoba. Although much of the material is geared towards students, postdocs may also find useful support resources here.
 
-## Usage 
+I do my best to make sure that the information in this manual is up to date. However, it is the responsibility of all students:
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+* To familiarize themselves each year with the university’s academic regulations and policy in general;
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+* To familiarize themselves with the regulations and policies applying specifically to their faculty, school, or program;
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+* To familiarize themselves with the specific graduation requirements of the degree, diploma, or certificate they are seeking; and
 
-## Render book
+* To ensure that the courses they have selected are appropriate to their programs.
 
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+Please note that the university may update policies and requirements throughout your degree, so you should [check in regularly](https://umanitoba.ca/graduate-studies/administration/supplementary-regulations) to ensure you have the most up-to-date information. Please make sure you are looking at the requirements for the current year, and for the Department of Biological Sciences.  
 
 
-```{r include=FALSE}
+
+**[It is the responsibility of all lab members to stay on top of important dates and deadlines](https://catalog.umanitoba.ca/graduate-studies/important-notice/)**. If you notice any inaccuracies or out of date information in this manual, please [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to let me know and I will update it as soon as possible. Remember that if you are uncertain about anything, you can always ask. 
+
+
+```{r include=FALSE, eval=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
