@@ -5,6 +5,43 @@ If you are brand new to using R/Rstudio, you will need to [download and install]
 
 **I do not recommend using AI to provide coding/anaylsis help unless you are very confident in your coding abilities already.** AI should be viewed as a tool, and it can be useful in some contexts, but only if you can evaluate it critically. You are responsible for the code that you produce, which means you need to be able to understand and justify everything that you do. 
 
+## Github {-}
+**Please note - even if you are experienced using Github, you will need to follow some of the instructions below to link your projects and repositories to our lab organization**
+
+Much of our lab materials will be organized on Github. There is a bit of a learning curve associated with this, but ultimately it is a platform that will serve you well beyond your time in our lab, and familiarity with it will make you a stronger quantitative scientist.
+
+Below you will find step-by-step instructions to help you set up an account in our Github organization and start your first project. If you are brand new to using Github, start here...
+
+### Making an Account {-}
+Navigate to https://github.com/ and create an account, if you don't already have one. Once you've done this, please reach out to Allison and share your username, so you can be added to our [Lab's Github](https://github.com/Binley-Lab) organization page.
+
+### Repositories and Projects {-}
+For each chapter of your thesis, you will create one repository to keep all the data, scripts for analysis, and other relevant materials in one place. To do so, navigate to our [lab's page](https://github.com/Binley-Lab), click on the **Repositories** tab on the top banner, then click the green **New Repository** button in the right hand corner.
+Once you are on the "Create a new repository" page, there are a few fields that require your attention: 
+
+- ensure that under "Owner" it says "Binley-Lab"
+- give your repository a somewhat informative name (e.g., avian solar-energy interactions)
+- next to "Choose visibility" select "private"
+- next to "Start with a template" select "Binley-Lab/repo-template"
+- set "Add README" to "On"
+- next to "add .gitignore" select "R" from the drop-down menu
+- click "create repository"
+
+You should now have a repository set up on your account that is linked to our organization, and already set up using the repo-template I've designed to keep your files organized (more on this later). 
+Next, we need to ensure that this repository is linked to the appropriate projects. In general, each of your repositories will be linked to two Github "projects": one that is part of a larger suite of lab projects, and one that is specific to your thesis. The former will already exist, whereas the latter is something you will create for yourself. 
+
+**To add a repository to an existing lab project:** *Only do this step once you have discussed with Allison which project your work belongs in*. Navigate to your repository and click on "Projects" on the banner above. Click on "Link a project", then select the appropriate project from the drop-down menu.
+
+**To create your own thesis project and add your repositories:** From the main Binley-Lab page, navigate to the [Projects](https://github.com/orgs/Binley-Lab/projects) tab. Click on the green "New Project" button, then select the "Team planning" template. Next, name your project a combination of your username and the type of thesis you are doing (e.g., \@adbinley's\ PhD thesis). Click on the "Select Repository" drop down menu and select the repository that you created to link that repository to your new thesis project. Note that when you create new repositories to add to your thesis (e.g., a PhD thesis will have multiple repositories, one for each chapter), you will need to manually link these repositories to your existing thesis project. Click "Create Project".
+
+### Issues {-}
+You may notice that nothing currently shows up on any of your Project dashboards - that's because we need to create tasks or "issues" which will be organized here.
+-explain what an issue is, how to make one that links to your projects, use it as a to do list
+
+### Using Github {-}
+- version control and coding
+- use Github desktop unless you are well versed with using Git
+- I will assume people who wish to use the command line know how to do so
 
 ## Reference Management {-}
 Unless otherwise discussed, all lab members will use Zotero for reference and citation management. You can download Zotero for free [here](www.zotero.org). If you are unfamiliar with Zotero, there are some useful [tutorials](https://libguides.unm.edu/Zotero) available online. I also recommend using the Chrome or Firefox plug-in to make it easier to save papers. Please let me know if you use up the free storage space and we can upgrade it. Using reference management serves several purposes:

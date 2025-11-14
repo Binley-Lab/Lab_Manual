@@ -1,5 +1,5 @@
 delete_merged_file: true
-rmd_files: ["index.Rmd","Getting-started.Rmd", "UM-policies.Rmd","Funding-opportunities.Rmd"]
+rmd_files: ["index.Rmd","Getting-started.Rmd", "UM-policies.Rmd","Teaching-assistantships.Rmd", "Funding-opportunities.Rmd"]
 output_dir: "docs"
 language:
   ui:
