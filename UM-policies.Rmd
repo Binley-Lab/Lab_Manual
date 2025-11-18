@@ -3,9 +3,273 @@
 As a student at the University of Manitoba (UM) you have rights and responsibilities. It is important for you to know what you can expect from the University as a student and to understand what the University expects from you. Become familiar with the University's policies, procedures, and regulations specific to your faculty, college or school. 
 The UM website’s [governing documents](https://umanitoba.ca/governance/governing-documents) is one important source of information, in particular the Academic and Students sections. The Student Advocacy office can also help you understand policies and procedures; find their information in the UM Learner supports section below. 
 
+Most of the details below are copied directly from the Department of Biological Sciences [supplemental regulations](https://umanitoba.ca/graduate-studies/sites/graduate-studies/files/2025-09/biological-sciences-supp-regs.pdf). These regulations can change, so **always defer to the regulations posted annually on the UM website if they differ from anything written in this lab manual** - some information may be out of date here. I've condensed some of the most important information here so that it is easier for you to find, but do your due diligence in checking everything with the officially posted regulations.
+
+## Time in Program {-}
+
+### MSc {-}
+
+The minimum time for students in the Master’s program is equivalent to two (2) terms. Completion of most programs requires more than this and students should check department/unit supplementary regulations regarding specific requirements. The maximum time allowed for the completion of the Master’s degree is four (4) years for students declared as full-time and up to six (6) years for students declared as part-time (see Student Status/Categories of Students for information on calculating maximum time for students). Individual departments/units and/or programs may have specified minimum and maximum time limits. Requests for extensions of time to complete the degree will be considered on an individual basis and must be submitted to the Dean of the Faculty of Graduate Studies using the “Time Extension Request” form. This form should be submitted at the beginning of the student’s last term in program, prior to expiration of the respective maximum time limit. Time extension requests require an explanation of the need for the extension and the goals to be met during the extension period as well as a timeline for meeting the stated goals. Future extensions will be considered only if there is evidence progress was made on the goals outlined in the previous extension request. If progress is not evident, the request must describe the circumstances that prevented progress on the identified goals. Extensions also must recognize the graduation deadlines for the respective graduation period. A student who has not completed the degree requirements within the maximum time limit or within the time limit of the extension will be Required to Withdraw from the Faculty of Graduate Studies and the notation on the student record will be “Required to Withdraw”.
+
+### PhD {-}
+
+The minimum time requirement for the program of study for a Ph.D. degree will usually be two (2) years of study beyond the level of the Master’s degree, or three (3) years beyond the level of a Bachelor’s degree.
+The maximum time allowed for the completion of the Ph.D. degree is six (6)
+years following initial registration in the Ph.D. program. For those students who transfer from the Master’s to the Ph.D., years spent in the Master’s program are counted as years in the Ph.D. program. Ph.D. students who are declared as part-time will receive an additional four (4) months in time to complete their program for every two (2) years (24 months)
+they are declared as part time (see Student Status/Categories of Students) to a maximum of seven (7) years. Requests for extensions of time to complete the degree will be considered using the "Time Extension Request" form submitted to the Dean of the Faculty of
+Graduate Studies at the beginning of the student’s last term in program, prior to
+expiration of the respective maximum time limit. Time extension requests
+require an explanation of the need for the extension and the goals to be met
+during the extension period as well as a timeline for meeting the stated goals.
+Future extensions will be considered only if there is evidence progress was
+made on the goals outlined in the previous extension request. If progress is not
+evident, the request must describe the circumstances that prevented progress
+on the identified goals. Extensions also must recognize the graduation
+deadlines for the respective graduation period.
+A student who has not completed the degree requirements within the time limit
+or within the time limit of any extension that has been granted (please refer to
+"Extension of Time to Complete Program of Study” and “Leaves of Absence”)
+will be Required to Withdraw from the Faculty of Graduate Studies and the
+notation on the student record will be “Required to Withdraw”.
+
 
 ## Academic Calendar {-}
 
 The [Academic Calendar](https://umanitoba.ca/registrar/academic-calendar) is the University’s official publication containing course descriptions, program, and graduation requirements, as well as UM and faculty or school-specific rules, regulations, and policies. Familiarize yourself with the sections of university policies and procedures and general academic regulations. 
+
+## Courses {-}
+
+All students, including those in a Pre-Master's, are required to register for and complete GRAD 7500 Academic Integrity Tutorial (0 credit hours) within their first term of initial registration.
+
+### MSc {-}
+
+A minimum of 6 credit hours of graded course work at the 7000 level plus a thesis are required for the thesis route. BIOL 7100 (Core Skills in Biological Sciences) is required as 3 credit hours of the required course work.
+
+### PhD {-}
+
+Where admission to the PhD is directly from a Master’s Degree, a minimum of 6 credit hours of graded course work at the 7000 level (including the core course BIOL 7220: Critical Thinking in Biological Sciences), and a thesis are required. Where admission to the PhD is directly from an Honours Bachelor’s Degree or equivalent, a minimum of 12 credit hours of graded course work at the 7000 level (including 2 core courses, BIOL 7100: Core Skills in Biological Sciences Research and BIOL 7220: Critical Thinking in Biological Sciences), and a thesis are required. Upon recommendation by the Advisory Committee, the student may be required to take additional coursework beyond the minimum requirement.
+
+## Advisory Committee {-}
+
+Advisory committees are selected by the advisor/co-advisor in consultation with the student and should consist of individuals whose expertise is consistent with that necessary to provide additional advice and guidance to the student during their research program. The advisor/co-advisor is the Chair of the advisory committee.
+
+### MSc {-}
+
+In consultation with the student, the advisor will recommend an advisory committee to the Head of the Department. The Advisory Committee should be struck within the first 3 months of the student's MSc program. The Advisory Committee must consist of a minimum of 3 members, and will include the student's advisor, and at least one other member of the Department (including adjuncts). A committee member who is not a member of the Faculty of Graduate Studies must be approved by the Faculty of Graduate Studies. The student's advisor will chair the committee unless the Department Head (or their designate) appoints a different chair.
+
+### PhD {-}
+
+The Advisory Committee should be struck and meet with the student within the first 6 months of their program. The purpose of this initial meeting is to provide a detailed assessment of the student's background in relation to the proposed area of research, and to determine if any courses, readings, or other remedial action is required in addition to requirements set by the Selection Committee (see section 7.1.1). The [PhD Program of Study and Appointment of Advisory Committee form](https://umanitoba.ca/graduate-studies/forms) should be completed and submitted to the Department of Biological Sciences. The Advisory Committee shall meet at least once a year to review the student's progress and to report this progress to the Faculty of Graduate Studies (see section 2.3). The Advisory Committee will review the student's progress in course work and include a list of the 7000 level courses completed and anticipated in the written progress report (see section 2.3). If there is evidence of unsatisfactory performance, any member of the Advisory Committee may ask for a committee meeting to be held in the absence of the student to discuss the perceived problem. After subsequent discussion with the student, remedial action may be recommended by the Advisory Committee. If performance remains unsatisfactory, a recommendation will be sent to the Faculty of Graduate Studies that may result in a student being required to withdraw from the program.
+The student must meet with the Advisory Committee at least once a year (or more frequently than once a year at the request of the advisor or the student) to review the student's progress and prepare a progress report. One week in advance of the progress meeting the student will be required to submit a minimum of a 2-page document to their advisory committee outlining academic and research achievements since the last progress meeting. This document must be submitted to the Department of Biological Sciences with the “Progress Report” form. See also sections 6.6.5 and 7.6.2.
+In consultation with the student, the advisor will recommend an advisory committee to the Head of the Department. The Advisory Committee should be struck within the first 3 months of the student's MSc program. The Advisory Committee must consist of a minimum of 3 members, and will include the student's advisor, and at least one other member of the Department (including adjuncts). A committee member who is not a member of the Faculty of Graduate Studies must be approved by the Faculty of Graduate Studies. The student's advisor will chair the committee unless the Department Head (or their designate) appoints a different chair.
+Under no circumstances are graduate students, Postdoctoral Fellows, and Research Assistants or Associates registered/employed at any institution to serve on graduate student advisory or examining committees, regardless of whether or not they hold a rank of Adjunct Professor.
+
+## Thesis Proposal {-}
+
+### MSc {-}
+
+Students must provide a thesis proposal typically within the first 6 months of the program, before the research project begins. The goals of the Thesis Proposal are:
+
+1. to examine the student's understanding in the area of specialization;
+2. to identify specific weaknesses in the student's background relevant to the proposed research-specialty area and ways of addressing these; and
+3. to test the student's ability to use the scientific method and formulate testable hypotheses.
+
+The written proposal will be submitted to the advisory committee by the student 1 week prior to the date of the committee meeting. The written proposal should be approximately 5-10 pages (excluding reference list, figures, tables and appendices). Details of the methods and protocols can be placed in an appendix unless new methods will be developed specifically as part of the research.
+
+The proposal should be developed between the student and the advisor, and in consultation with the advisory committee if required. The proposal must be approved by the Advisory Committee, and the [Master’s Thesis/Practicum Proposal form](https://umanitoba.ca/graduate-studies/sites/graduate-studies/files/2020-07/masters-thesis-practicum-proposal.pdf) should be completed and submitted to the Department of Biological Sciences.
+
+### PhD {-}
+
+All students must present a Thesis Proposal early in the program within the first year, prior to beginning the research component and before the Candidacy Examination.
+
+*Goals:*
+
+The goals of the Thesis Proposal and presentation are:
+
+1. to test the student's ability to use the scientific method and formulate testable hypotheses.
+2. to examine the student's understanding in the area of specialization and identify specific weaknesses relevant to the proposed research-speciality area;
+3. to provide the student and the Advisor with a critical appraisal of the research proposed for the thesis;
+4. to test the student’s ability to communicate in written and oral formats.
+
+*Format:*
+
+The Thesis Proposal will consist of a written proposal and a public presentation. The written proposal will be submitted to the Advisory Committee by the student 1 week prior to the date of the presentation. The written proposal should be 5-10 pages (excluding reference list, figures, tables and appendices). Details of the methods and protocols can be placed in an appendix unless new methods will be developed specifically as part of the research. The proposal should be developed between the student and the advisor, and in consultation with the Advisory Committee and should be made available for general review within the department at least 1 week prior to the oral presentation. The presentation will be a public 20-minute presentation to the department, and should be understandable by a broad scientific audience. The presentation will be chaired by a member of the departmental GSC designated by the Chair of that committee. The presentation should highlight the goals of the work, the research strategy and the expected contribution to new knowledge. Details of methods and protocols should be avoided and replaced by a summary table or flow chart. The Chair will provide for the audience a description of the expectations and the purpose of the presentation, at the beginning of the session. After the presentation the audience will be allowed to ask questions for up to 15 minutes. The chair will tell audience members to leave the meeting and the committee will then ask questions. The presentation and questioning by the committee will take approximately 2 hours. The Chair of the proposal presentation will provide the required form from the Faculty of Graduate Studies on the approval of the "PhD Thesis Proposal” for completion by the committee.
+
+*Evaluation:*
+
+The assessment will be based on the written proposal, the clarity of the proposal presentation, and the student’s ability to answer questions and respond to feedback. The Advisory Committee (and members of the audience, if they have constructive comments) will provide useful comments and suggestions for improving the proposal. The Advisory Committee will meet in the absence of the student immediately following the presentation and questions to deliberate on the outcome of the proposal. If the proposal is satisfactory (with or without minor revisions), the Advisory Committee can sign the [thesis proposal form](https://www.umanitoba.ca/graduate-studies/sites/graduate-studies/files/2020-07/phd-thesis-proposal.pdf). The committee may ask to see a revised version within 2 weeks or allow the Advisor to ensure the minor revisions are incorporated before submitting the proposal to the department office. If, however, major revisions of the thesis proposal are required, the student will complete the revisions in conjunction with the Advisor, and submit to the Advisory Committee within 2 weeks (timing may be extended with approval of the GSC Chair). One week after the revision is submitted, the committee should then reconvene for a discussion of the revised proposal. The student is not required to give another public presentation although the committee may require another oral presentation. The committee may question the student for up to 1.5 hours. If the committee approves the revised proposal (with or without minor revisions), they can sign the thesis proposal form (see above link). If, however, the proposal revision is determined to be unsatisfactory, a [Progress Report Form](https://www.umanitoba.ca/graduate-studies/sites/graduate-studies/files/2020-07/interactive-progress-report.pdf) should be completed, and the student rating should be “Unsatisfactory”, which will lead to withdrawal from the program. A copy of the final proposal will be filed with the Student records in the
+department.
+Once the proposal is approved by the Advisory
+Committee, the form will be signed by the
+Department Head and returned to the Faculty
+of Graduate Studies.
+
+*Timing:*
+
+The Thesis Proposal and presentation will occur at a time specified by the Advisory Committee and a designate from the GSC, in the first 15 months after registration in the program, but preceding the major portion of research toward the PhD thesis. These requirements are the same for those students who enter the PhD program directly from a BSc Honours degree program. will be filed with the Student records in the department. Once the proposal is approved by the Advisory Committee, the form will be signed by the Department Head and returned to the Faculty of Graduate Studies.
+
+## Thesis {-}
+
+The format of a thesis will be agreed upon between the student and advisor/advisory committee. The thesis may be written in the style of a traditional thesis or as a series of papers (that may or may not have already been published). However, a simple compilation of published or submitted papers is considered unacceptable. A thesis containing a series of published papers should be a cohesive document with consistent formatting and student contribution to multi-authored papers must be clearly stated. Further guidelines are available on the [Faculty of Graduate Studies website](https://umanitoba.ca/graduate-studies/student-experience/thesis-and-practicum).
+
+Generally speaking, the first chapter of the thesis will consist of a literature review on a subject related to the theme of your research. MSc these will have 1-2 "data chapters" whereas a PhD thesis will have at least 3. There will then be a concluding chapter, which will usually be a perspective piece. 
+
+## PhD Candidacy Exam {-}
+
+***Not required for MSc**
+
+The Candidacy Exam consists of 2 parts: a written mock grant proposal and an oral examination. Both parts together will be completed over an 8-week time period, typically in the latter part of the PhD program, after the Thesis Proposal has been approved, and no later than 1 year prior to graduation. Two months prior to embarking on the process outlined below, students should contact the GSC Chair or Graduate Secretary, so that a Candidacy Examining Committee Chair and the GSC examiner can be appointed prior to the initial meeting. 
+
+*Candidacy Examining Committee:* 
+
+The Candidacy Examining Committee consists of the student's advisor, 3 members of the Advisory Committee, 1 examiner (external) who is not a member of the Advisory Committee but is a member of the departmental GSC (appointed by the GSC Chair), and a non-voting Chair, also appointed by the GSC Chair. 
+
+*Goals:*
+
+The goals of the Candidacy Exam are:
+
+1. to evaluate the student's ability to take pertinent information from the literature that may form the basis for further investigation of a research program related to, but not the same as, the PhD project; 
+2. to test the student's ability to use the scientific method and formulate testable hypotheses that are not directly related to their specialty topic; 
+3. to examine the student's depth of knowledge in the particular research specialty; and 
+4. to examine the breadth of knowledge required in researching and writing the background material for the grant proposal.
+It is also expected that the student be familiar with the methodology used in the proposed research program.
+
+*Timing:*
+
+The Candidacy Exam will occur at a time specified by the Advisory Committee, no later than 1 year prior to expected graduation. The 8-week timeline outlined below is meant to limit the time that students spend away from research and to ensure equitable conditions for evaluating the Candidacy of all PhD students. *It is imperative that you start organizing this early – it is hard to wrangle academics and one of the biggest barriers here will be finding dates/times when all the required members are available.*
+
+**Week 0:** Meeting with Candidacy Examining Committee to discuss potential topics and finalizing topic for mock grant proposal.    
+**Week 4:** Written proposal submitted to Candidacy Examining Committee by student.    
+**Week 5:** Feedback on proposal from Candidacy Examining Committee returned to student.    
+**Week 7:** Revised proposal and responses to reviews submitted to Candidacy Examining Committee by student.   
+**Week 8:** Oral exam   
+**Week 10:** If a fail in one component, revised proposal or repeated oral exam.     
+
+*Written proposal:*
+
+The topic of the grant proposal will be chosen by the Candidacy Examination committee in a discussion with the student that takes place 4 weeks before the proposal is first submitted to the committee (8 weeks before the oral exam). Although the student and their advisor are encouraged to discuss a minimum of 3 possible topics in advance of the meeting, the focus of the proposal should not be determined until the initial meeting with the full Candidacy Examining Committee. At the beginning of the first meeting, the student is encouraged to present a PowerPoint of 1-2 slides summarizing their PhD topic and 1-2 slides per possible topic for the candidacy proposal. After the general topic has been determined and the student has had an opportunity to further explore and consider the topic, they should more clearly describe the specific avenue of research within the bounds of this topic and briefly summarize (300 words maximum) this avenue of research to the Chair of the Candidacy Examining Committee (by email) within 48 hours of the initial meeting. This paragraph should not have details of the hypotheses, but should summarize the topic of the proposal in a similar way to the Summary of a Discovery Grant. The Chair will send the paragraph to the committee and all responses by the committee members will be sent to the Chair within 24 hrs upon which the Chair will communicate feedback to the student on Day 4 of Week 0. The written grant proposal is modelled on the most recent NSERC Discovery grant format on the [NSERC website](https://www.nserc-crsng.gc.ca/ResearchPortal-PortailDeRecherche/Instructions-Instructions/DG-SD_eng.asp#a3). **Note that you only need to do the "Proposal" part, and can disregard the rest of the Discovery Grant Instructions.** The maximum page limit for the proposal will be 5 pages, plus references (note that references are not limited to 2 pages per NSERC guidelines), and will not require budget information. In unusual circumstances, the grant proposal format may be that of another relevant Tri-Council granting agency. The proposal, both conceptually and as a document, will remain, and be recognized as, the intellectual property of the student. Students are encouraged to use Discovery Grant proposals from their advisor (or other individuals willing to share their proposals) as guides on how to prepare their own proposals, but need to ensure they do not 1) take ideas or wording from these proposals, or 2) pass these proposals on to other individuals without the express permission of the proposal author.
+The proposal submitted at the end of the 4th week must be entirely the student’s own work. The student should submit the proposal by email (in MS Word to facilitate editing and insertion of comments) to the Chair by the “Week 4” date determined at the outset. Examiners will provide constructive written feedback on the proposal to the Chair within 1 week of submission. The Chair will email all of the examiners’ comments to the student at the start of Week 5. The student will then have 2 weeks to revise and resubmit the written proposal, based on the written feedback. Additional feedback from the Candidacy Examining Committee will not be provided to the student before the oral exam. The student will submit a letter (maximum 3 pages) with the final proposal outlining how they addressed the committee’s major comments. Students may be questioned on their responses at the oral exam.
+
+*Oral Examination:*
+
+The oral exam is closed to all persons except the Candidacy Examining Committee and the student. The Chair will begin the session by outlining the procedure to the committee and the student. The student will make a 20- minute presentation on the written grant proposal. After the presentation is completed, the exam will proceed with 2 rounds of questioning, beginning with the external examiner and then the Advisory Committee members and ending with the Advisor. Questions will assess the student’s breadth and depth of knowledge in areas related to the rationale and themes of the research topics in the proposal; related areas outside the proposal background; and current topics in the field. Questions may also explore how feedback provided by the Examining Committee on the first version of the written proposal was incorporated or rebutted. The time allocated to the examination will be a maximum of 2 hours, including presentation and 2 rounds of questions. At the end of questioning, the student will be asked to leave the meeting. Each examiner will be asked to evaluate and discuss the outcome of the exam and whether the student has passed or failed the exam (see below). After discussion is completed, the Candidacy Examining Committee members will produce a final evaluation for the entire Candidacy Examination. The Advisor will inform the student of the outcome.
+
+*Evaluation:*
+
+The student will be evaluated (Pass or Fail) separately on the written proposal and on their performance during the oral exam. Students will be evaluated on how well they have achieved the goals of the examination, as outlined in the Supplemental Regulations. The goals related to the written proposal include goals #1 and #2 (see above). In addition, the oral exam is intended to further probe goals #3 and #4 (see above). Further, consideration will not be given to the question of whether the grant would be funded by NSERC. To receive a Pass on either component, the decision of the examiners must be unanimous. If the student fails either the written or oral exam (but not both), they will have an additional 2 weeks to make further revisions to the proposal or to repeat the oral exam (as required). These revisions will be based on the feedback provided to the student (within 1 day of the examination) by the Candidacy Examining Committee and Chair. Successful completion of the repeated component will be deemed a Pass. A student that fails both components at the 8- week point, or fails to successfully revise the proposal or the repeat oral exam at Week 10, will be considered to have failed the first attempt of the Candidacy Examination. The combined written and oral exam may be taken a second (and final) time, within 1 year of the failed attempt. The same membership of the Candidacy Examining Committee should be retained, if possible, although a new Chair may be assigned for the examination by the Chair of the GSC.
+
+*Responsibility of the Chair:*
+
+The non-voting Chair will supervise all aspects of the examination but may not ask any questions at the examination. It is the responsibility of the Chair to intervene on behalf of the student if the committee's questions are not consistent with the purpose of the Candidacy Examination (stated above), and to ensure that the questions are asked fairly and within the time allowed for the examination.
+
+*Responsibility of the Candidacy Examining Committee:*
+
+Members will examine the student on aspects of the presentation and written grant proposal in a manner that tests the extent of the student’s knowledge on the program of research, the hypotheses of interest, the design and approach to the research, and its impact. The Candidacy Examining Committee should be punctual in providing written comments. It is also the responsibility of the Candidacy Examining Committee to provide guidance to the student, if asked, but should not provide specific feedback on drafts of the proposal prior to its submission.
+
+*Responsibility of the student:*
+
+The student will be expected to seek discussion with the Candidacy Examining Committee members for guidance in preparation, but not to expect excessive explanatory sessions. Plagiarism of the advisor’s grant proposal or other sources of literature will not be tolerated. Students will be required to sign an Honesty Declaration in advance of submitting the written proposal. The student is also responsible for punctuality in submission of the written portions of the exam.
+
+*Report of the Candidacy Examining Committee:*
+
+The Report of the Committee will provide the final decision of the committee and feedback for the student on strengths and weaknesses of their performance in the Candidacy examination. The final decision will take into account the results of the initial grant proposal and subsequent revision, oral presentation, and questioning as a whole. The report will include written constructive comments in addition to the “Report on PhD Candidacy Examination” form. The report will be sent to the student, the Associate Head of Graduate Studies/Department Head of the Biological Sciences Department, and the Dean of Graduate Studies. A decision of pass among the examiners must be unanimous. Anything less than unanimity shall be considered a failure. In the event of a failed second attempt the Chair will inform the student, in writing, the Department Head, and the Dean of Graduate Studies, of the area(s) of deficiency. Upon successful completion of this examination the Student will be considered a Candidate for the PhD degree.
+
+## Defence {-}
+
+### MSc {-}
+
+The advisor/co-advisor will recommend an examining committee to the Department/Unit Head for approval, which shall then be reported to the Faculty of Graduate Studies on the “Master’s Thesis/Practicum Title and Appointment of Examiners” form. This form must be approved by the Dean of the Faculty of Graduate Studies at least two (2) weeks prior to the distribution of the thesis to committee members for written examination.
+The Examining Committee will usually be the same as the Advisory Committee. The chair of the Departmental GSC will recommend to the Department Head a faculty member of the Department to be appointed as a non-voting chair of the Examining Committee. The completed MSc thesis should be submitted to the Advisory Committee 3 weeks prior to the date of the oral defence. Note that in exceptional circumstances, a student has the right to proceed with the thesis examination without the Advisor’s permission (see section 4.7.1.3), but this situation should be recorded by the Graduate Secretary in the student’s records.
+The oral examination should be completed within one (1) month of distribution of the reports on the written thesis/practicum to the examining committee. A non-voting Chair will be appointed by the chair of the GSC, in consultation with the Department Head. The Chair will introduce the student who will present an outline of the research and its results in approximately 20 minutes, after which the Chair will invite questions from members of the audience. Questions at this point will be limited to 5–10 minutes, but less time may be permitted if there are more than 3 examining committee members. This will be followed by a short break to allow members of the audience to leave, if they wish, and the student to take a break. The Chair will then invite questions from each member of the Examining Committee. Each member will be limited to 10 minutes for this part of the examination. Following the first round of questions by the Examining Committee, each examiner will be given an opportunity to ask additional questions which have arisen as a result of the first round of questions. After questioning by the Examining Committee, if time permits, the Chair shall invite additional questions from the audience. However, the total amount of time for the oral presentation plus questioning shall not exceed 2 hours. At the conclusion of the questioning, the candidate and audience will be required to leave the meeting for the examining committee to deliberate. Before giving final approval of the thesis, the examiners may require a student to make revisions to the thesis; committee members may withhold their signature from the Master’s Thesis/Practicum Final Report form (provided by the Chair) until revisions have been made. Otherwise, the advisor shall ensure that all revisions are completed before the signed report is released to the student. The signed Master’s Thesis/Practicum Final Report must be submitted to the Faculty of Graduate Studies prior to the deadline for graduation. In the event of a failure or other difficulties, the Chair will provide a short report on the conduct of the defence to the GSC.
+
+### PhD {-}
+
+The final examination for the Ph.D. degree proceeds in two distinct stages:
+
+1. The Written Examination    
+    a) Submission of the thesis and related information (i.e., student,       thesis, and internal examining committee details) and materials           (i.e., Approval to Proceed to Ph.D. Thesis Examination form,              supplementary files (if applicable)) by the student to the Faculty 
+of Graduate Studies;   
+    b) External examiner selection:   
+        i. Submission of external examiner nominations by the advisor/co-advisor or department/unit to the Faculty of Graduate Studies;    
+        ii. Selection of the external examiner by the Faculty of Graduate Studies;
+    c) Written examination of the thesis by the examining committee (i.e., individual reviews of the thesis and submissions of written reports and assessments by examiners to the Faculty of Graduate Studies);   
+    d) Communication of the results of the written examination:   
+        i. From the Faculty of Graduate Studies to the department/unit and internal examining committee;   
+        ii. From the advisor/co-advisor to the candidate.   
+
+2. The Oral Examination   
+    a) Scheduling of the oral examination by the department/unit and/or advisor/co-advisor (via the “Ph.D. Oral Examination Scheduling Request” form);    
+    b) Oral examination of the candidate on the subject of the thesis and any matters relating thereto by the examining committee:    
+        i. Assessment of the oral examination by voting members of the examining committee via in-camera deliberations with the chair of the oral examination;    
+        ii. Communication of the results of the oral examination by the chair to the candidate; Communication of the results of the oral examination by the chair to the Faculty of Graduate Studies.   
+
+All voting members of the advisory committee are expected to serve on the examining committee; any exceptions must be approved in advance by the Dean of the Faculty of Graduate Studies. The examining committee must consist of a minimum of three (3) voting members (including the advisor/co- advisor as a single member sharing a single vote), all of whom must be members of the Faculty of Graduate Studies. It is expected that examining committee members will have a Ph.D. degree or equivalent. Equivalency will be determined by the Dean of the Faculty of Graduate Studies or designate. Department/units must submit a CV and justification for FGS to consider equivalency.
+
+The candidate’s advisor/co-advisor, in consultation with the advisory committee, will nominate at least 3 distinguished scholars from outside The University of Manitoba with particular experience in the field of the thesis research and significant Ph.D. student supervisory/examination experience to serve as the external examiner. The external examiner provides an impartial arm’s-length assessment of whether the thesis meets the standard of a PhD. Nominations to the Faculty of Graduate Studies via the “External Examiner Nomination” form for approval by the Dean of the Faculty of Graduate Studies. For each nominee, the advisor/co-advisor must provide:   
+
+- A CV of each of the prospective external examiners    
+- A short justification for the nomination that addresses how the nominee meets the eligibility criteria    
+- The rationale behind the recommendations;   
+- The prospective external examiners’ qualifications (if not already explicit on the CV). 
+
+This includes a current list of their scholarly publications and research activities and, importantly, their experience with Ph.D. student supervision/examination (e.g., Ph.D. students they have supervised to completion; Ph.D. students they are currently supervising; experience serving as external examiner for Ph.D. examining committees). Advisors and/or departments/units must contact the prospective external examiners to obtain this information and determine if they are available to review the thesis prior to submitting the recommendations to the Faculty of Graduate Studies. If any of the recommended examiners do not meet the eligibility criteria specified below, a detailed explanation must be included with the rationale for the recommendation.    
+
+The external examiner must:
+
+- hold a Ph.D. (or equivalent);
+- hold the rank of Associate Professor, Full Professor, Senior Scholar or Emeritus Professor (or the equivalent if outside North America) at a university/institution, or have comparable expertise and standing if not a current faculty member at a university;   
+- have an established reputation in the area of the thesis research and be able to judge whether the thesis would be acceptable at a university/institution comparable to the University of Manitoba; and    
+- have a demonstrated record of supervising a significant number of Ph.D. students to completion, and significant recent experience with the supervision/examination of Ph.D. students.  
+
+The external examiner must not: 
+
+- have held any faculty appointment within the candidate’s home department/unit at the University of Manitoba within the last 10 years;   
+- have acted as an external examiner for a student of the same Ph.D. advisor and/or co-advisor within the previous two (2) years;    
+- be a Postdoctoral Fellow;   
+- have been associated with the candidate at any time or in any significant way in the past five (5) years, present or reasonably foreseeable future (as advisor/co-advisor, colleague, teacher, co- author of published material, family member etc.); or    
+- be associated with the candidate’s advisor/co-advisor in any of the following ways:   
+- former student within the last ten (10) years;    
+- research advisor/co-advisor within the last ten (10) years;   
+- research collaborator within the last five (5) years;   
+- co-author of published material within the last five (5) years.   
+
+The Dean of the Faculty of Graduate Studies or designate will choose the external examiner from the list provided by the candidate’s advisor/co-advisor or department/unit and will extend a formal invitation to the selected examiner. If an eligible examiner cannot be secured from the nomination, the advisor/co- advisor or department/unit will be required to repeat the nomination process until a suitable examiner is secured. The identity of the selected examiner shall remain confidential until all reports on the thesis have been received.
+
+*Thesis Submission:*
+
+Ph.D. candidates must submit their thesis to the Faculty of Graduate Studies for
+written examination via the [Ph.D. Thesis Submission form](https://umanitoba.ca/graduate-studies/sites/graduate-studies/files/2025-09/approval-to-proceed.pdf). Please refer to
+the [website](https://umanitoba.ca/graduate-studies/student-experience/thesis-and-practicum/submit-your-thesis-or-practicum) and [Graduate Studies Hub](https://umanitoba.sharepoint.com/sites/fgshub) for pertinent instructions. It is the
+responsibility of the Faculty of Graduate Studies to distribute the electronic
+version of the thesis to all examiners once an external examiner has been
+secured. The Faculty of Graduate Studies shall ensure that the thesis is
+distributed to examiners as soon as possible after the submission of all required
+documentation. The Faculty of Graduate Studies [website](https://umanitoba.ca/graduate-studies/student-experience/thesis-and-practicum/submit-your-thesis-or-practicum#submitting-your-thesis-to-committee-members) should be consulted
+regarding recommended dates by which theses must be submitted.
+Once the thesis has been submitted to the Faculty of Graduate Studies, neither the candidate nor the advisor/co-advisor shall have any communication with the examining committee regarding the thesis. However, should the need arise, the examiners may contact the Dean of the Faculty of Graduate Studies to discuss any issues related to the thesis.
+
+Support of the candidate's advisor/co-advisor, advisory committee, and
+department/unit is required before the thesis is eligible for examination. Such support must be provided to the Faculty of Graduate Studies via the completed [Approval to Proceed to Examination](https://umanitoba.ca/graduate-studies/sites/graduate-studies/files/2025-09/approval-to-proceed.pdf) form. In completing the “Approval to Proceed to Examination” form:
+
+- each member of the advisory committee verifies that they have read
+the complete version of the thesis and have provided the candidate
+with a detailed review and comments including any necessary
+revisions in content and formatting (see Appendix 1);      
+- the student verifies that they have received feedback from all members
+of the advisory committee and have taken the feedback into account in
+preparing the thesis and are ready and willing to have their thesis
+examined; and   
+- the department/unit verifies that the student’s thesis has been
+reviewed by all members of the advisory committee and that the
+department/unit fully supports the thesis proceeding for examination.   
+
+The thesis will be eligible for examination if support for proceeding to the written examination is provided by the department/unit and advisory committee, with no more than one (1) member not in support. The examination will not commence until an external examiner has been secured by the Faculty of Graduate Studies.
+The Dean of the Faculty of Graduate Studies will request the examiners to give, within four (4) weeks of the distribution of the thesis to the examining committee, a detailed report on the quality of the thesis. This is referred to as the “written examination” stage of the thesis examination process.
+
+## Other Requirements {-}
+
+All graduate students are expected to attend at least 50% of all departmental seminars and student thesis defences during their residence. Attendance at seminars and thesis defences will be recorded on the Graduate Program Record (see section 2.3 of the supplemental regulations) and be taken into consideration in the student’s Progress report.
+
+Additionally, students in the Binley Lab are required to present their research at a Crackerjack seminar at least once during their program (PhD students are encouraged to participate multiple times). Crackerjack Lectures are 20-minute student-run presentations that provide our department with an opportunity to connect and learn more about research being conducted by graduate students. These sessions provide students with a platform for practicing their public speaking and an opportunity to receive feedback from other department members. Additionally, a committee of faculty members and students will select a winner for the G. Vladimersson Award for the best student presentation. It’s a $100 cash prize and a great award to have under your belt! Presenting at the Crackerjack Seminar also fulfills the PhD speaking requirement.
 
 
